@@ -1,5 +1,3 @@
 {
-    "*.{js,css,html}": [
-        "prettier --write ."
-    ]
+  "*.{js,css,html}": ["prettier --write ."]
 }
